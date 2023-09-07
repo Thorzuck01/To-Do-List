@@ -15,6 +15,7 @@ function addtask(){
        var span = document.createElement("span");
        span.innerHTML = "\u00d7";
        listItem.appendChild(span)
+        saveData();
       
     }
     text.value = " ";
