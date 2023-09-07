@@ -24,7 +24,7 @@
 <p align="center" >
   <h2 align="center">🚀 Running</h2>
   <p align="center" ><img alt="Shield" src="https://github.com/Thorzuck01/To-Do-List/blob/main/imagens/run.png"width=700>
-   <p>Acesse o <a href="https://thorzuck01.github.io/To-Do-List/">To-Do List</a></p>
+   <p>Acesse o <a href="">To-Do List</a></p>
 </p>
 
 
